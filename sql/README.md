@@ -1,6 +1,6 @@
 Spark SQL
 =========
-
+#this is updated by karthik
 This module provides support for executing relational queries expressed in either SQL or the DataFrame/Dataset API.
 
 Spark SQL is broken up into five subprojects:
